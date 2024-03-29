@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! My name is Jakub Jarosz.
+Hi! I'm Jakub Jarosz.
 
 <!-- Badges -->
 <p>
